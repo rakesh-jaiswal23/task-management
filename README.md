@@ -17,6 +17,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJz
 ## Run Locally
 
 Clone the project
+https://github.com/rakesh-jaiswal23/task-management.git
 
 Go to the project directory
 
